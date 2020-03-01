@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/avery-prototype/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/avery-prototype/static/js/main.f69b3b34.chunk.js",
+    "main.js.map": "/avery-prototype/static/js/main.f69b3b34.chunk.js.map",
+    "runtime-main.js": "/avery-prototype/static/js/runtime-main.cf1ffab5.js",
+    "runtime-main.js.map": "/avery-prototype/static/js/runtime-main.cf1ffab5.js.map",
+    "static/js/2.9d584121.chunk.js": "/avery-prototype/static/js/2.9d584121.chunk.js",
+    "static/js/2.9d584121.chunk.js.map": "/avery-prototype/static/js/2.9d584121.chunk.js.map",
+    "index.html": "/avery-prototype/index.html",
+    "precache-manifest.dc4616f7cb25232ee722e5a1a9d84951.js": "/avery-prototype/precache-manifest.dc4616f7cb25232ee722e5a1a9d84951.js",
+    "service-worker.js": "/avery-prototype/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/avery-prototype/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9d584121.chunk.js.LICENSE.txt": "/avery-prototype/static/js/2.9d584121.chunk.js.LICENSE.txt",
+    "static/media/Aston.jpg": "/avery-prototype/static/media/Aston.66765b76.jpg",
+    "static/media/Dawn.jpg": "/avery-prototype/static/media/Dawn.c53bda58.jpg",
+    "static/media/Elise.jpg": "/avery-prototype/static/media/Elise.a9c7c6ba.jpg",
+    "static/media/Jack.jpg": "/avery-prototype/static/media/Jack.93d776ce.jpg",
+    "static/media/Jessica.jpg": "/avery-prototype/static/media/Jessica.abbfa6fb.jpg",
+    "static/media/Karen.jpg": "/avery-prototype/static/media/Karen.c9d37813.jpg",
+    "static/media/Keith.jpg": "/avery-prototype/static/media/Keith.65763bfa.jpg",
+    "static/media/Mandy.jpg": "/avery-prototype/static/media/Mandy.1b39d9db.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf1ffab5.js",
+    "static/js/2.9d584121.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f69b3b34.chunk.js"
+  ]
+}
