@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52269c6865153449370df19b73217bcb",
+    "revision": "dece29f690ae09a14cf2904851cf0e64",
     "url": "/avery-prototype/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avery-prototype/static/css/2.7abef457.chunk.css"
   },
   {
-    "revision": "e0fce90b497d33b2991c",
+    "revision": "cc578e3d9926db6c4949",
     "url": "/avery-prototype/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avery-prototype/static/js/2.e68c420d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0fce90b497d33b2991c",
-    "url": "/avery-prototype/static/js/main.a8a9e97b.chunk.js"
+    "revision": "cc578e3d9926db6c4949",
+    "url": "/avery-prototype/static/js/main.5cc3d489.chunk.js"
   },
   {
     "revision": "0de4933059be9495301b",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avery-prototype/static/media/reece.9f16d18a.jpg"
   },
   {
-    "revision": "5ddcfa08c77ff8476f174a7e0e371df1",
-    "url": "/avery-prototype/static/media/scarlett.5ddcfa08.jpg"
+    "revision": "ffcea0d922ac0b7e8f2d8c8dc41e0cc5",
+    "url": "/avery-prototype/static/media/scarlett.ffcea0d9.jpg"
   },
   {
     "revision": "fcf7e6de4420fd6fe3c2302c910f3111",
