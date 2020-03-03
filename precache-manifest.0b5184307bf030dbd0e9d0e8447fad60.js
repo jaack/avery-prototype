@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "046455e5abe7de6abe7aa1d1f94d1acc",
+    "revision": "343997938ea4d332d66b9699170ce954",
     "url": "/avery-prototype/index.html"
   },
   {
-    "revision": "4909533fa79a204fccb4",
+    "revision": "cacd006d289cfbf743bf",
+    "url": "/avery-prototype/static/css/2.7abef457.chunk.css"
+  },
+  {
+    "revision": "967b7583b9efaa0f7518",
     "url": "/avery-prototype/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "c82622a04b6317e13b7e",
-    "url": "/avery-prototype/static/js/2.162ad9d1.chunk.js"
+    "revision": "cacd006d289cfbf743bf",
+    "url": "/avery-prototype/static/js/2.8e1a4381.chunk.js"
   },
   {
     "revision": "4a2932a9a7e9b3a27604858fef2249e4",
-    "url": "/avery-prototype/static/js/2.162ad9d1.chunk.js.LICENSE.txt"
+    "url": "/avery-prototype/static/js/2.8e1a4381.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4909533fa79a204fccb4",
-    "url": "/avery-prototype/static/js/main.0675e48d.chunk.js"
+    "revision": "967b7583b9efaa0f7518",
+    "url": "/avery-prototype/static/js/main.95399663.chunk.js"
   },
   {
     "revision": "0de4933059be9495301b",
     "url": "/avery-prototype/static/js/runtime-main.cf1ffab5.js"
+  },
+  {
+    "revision": "0079a6c7e07a304944153334f3051fbe",
+    "url": "/avery-prototype/static/media/80s.0079a6c7.jpg"
   },
   {
     "revision": "66765b769ba5bd7fe8a9608fbef3624a",
@@ -54,5 +62,25 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1b39d9db65c1d0693604798d9c8caf38",
     "url": "/avery-prototype/static/media/Mandy.1b39d9db.jpg"
+  },
+  {
+    "revision": "155740f6a16a494df4c665dcb2b7d0d2",
+    "url": "/avery-prototype/static/media/jj.155740f6.jpg"
+  },
+  {
+    "revision": "29c46620916c6ac8e6cc778512207a6a",
+    "url": "/avery-prototype/static/media/reece.29c46620.jpg"
+  },
+  {
+    "revision": "fcf7e6de4420fd6fe3c2302c910f3111",
+    "url": "/avery-prototype/static/media/sen.fcf7e6de.jpg"
+  },
+  {
+    "revision": "cd3aad2f477186d45efe5d6da2cf39cd",
+    "url": "/avery-prototype/static/media/skydive.cd3aad2f.jpg"
+  },
+  {
+    "revision": "43d3a950c7564413ca2f0715e198d2d7",
+    "url": "/avery-prototype/static/media/valentines.43d3a950.jpg"
   }
 ]);
