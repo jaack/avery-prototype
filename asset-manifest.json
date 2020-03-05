@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/avery-prototype/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/avery-prototype/static/js/main.5cc3d489.chunk.js",
-    "main.js.map": "/avery-prototype/static/js/main.5cc3d489.chunk.js.map",
+    "main.js": "/avery-prototype/static/js/main.6056cd4e.chunk.js",
+    "main.js.map": "/avery-prototype/static/js/main.6056cd4e.chunk.js.map",
     "runtime-main.js": "/avery-prototype/static/js/runtime-main.cf1ffab5.js",
     "runtime-main.js.map": "/avery-prototype/static/js/runtime-main.cf1ffab5.js.map",
     "static/css/2.7abef457.chunk.css": "/avery-prototype/static/css/2.7abef457.chunk.css",
-    "static/js/2.e68c420d.chunk.js": "/avery-prototype/static/js/2.e68c420d.chunk.js",
-    "static/js/2.e68c420d.chunk.js.map": "/avery-prototype/static/js/2.e68c420d.chunk.js.map",
+    "static/js/2.f3e8203e.chunk.js": "/avery-prototype/static/js/2.f3e8203e.chunk.js",
+    "static/js/2.f3e8203e.chunk.js.map": "/avery-prototype/static/js/2.f3e8203e.chunk.js.map",
     "index.html": "/avery-prototype/index.html",
-    "precache-manifest.b0d4129804613c2095753c96ee340284.js": "/avery-prototype/precache-manifest.b0d4129804613c2095753c96ee340284.js",
+    "precache-manifest.718d421278b023ccbaf98a38b70eb715.js": "/avery-prototype/precache-manifest.718d421278b023ccbaf98a38b70eb715.js",
     "service-worker.js": "/avery-prototype/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/avery-prototype/static/css/2.7abef457.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/avery-prototype/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.e68c420d.chunk.js.LICENSE.txt": "/avery-prototype/static/js/2.e68c420d.chunk.js.LICENSE.txt",
+    "static/js/2.f3e8203e.chunk.js.LICENSE.txt": "/avery-prototype/static/js/2.f3e8203e.chunk.js.LICENSE.txt",
     "static/media/80s.jpg": "/avery-prototype/static/media/80s.0079a6c7.jpg",
     "static/media/Aston.jpg": "/avery-prototype/static/media/Aston.66765b76.jpg",
     "static/media/Dawn.jpg": "/avery-prototype/static/media/Dawn.c53bda58.jpg",
@@ -26,12 +26,14 @@
     "static/media/castledon.jpg": "/avery-prototype/static/media/castledon.cca7e688.jpg",
     "static/media/hariss.jpg": "/avery-prototype/static/media/hariss.9382d4ef.jpg",
     "static/media/jj.jpg": "/avery-prototype/static/media/jj.155740f6.jpg",
+    "static/media/movie.jfif": "/avery-prototype/static/media/movie.18c2ea8b.jfif",
     "static/media/northlands.jpg": "/avery-prototype/static/media/northlands.b20335b6.jpg",
     "static/media/policeway.jpg": "/avery-prototype/static/media/policeway.de54960c.jpg",
     "static/media/reece.jpg": "/avery-prototype/static/media/reece.9f16d18a.jpg",
     "static/media/scarlett.jpg": "/avery-prototype/static/media/scarlett.ffcea0d9.jpg",
     "static/media/sen.jpg": "/avery-prototype/static/media/sen.fcf7e6de.jpg",
     "static/media/skydive.jpg": "/avery-prototype/static/media/skydive.cd3aad2f.jpg",
+    "static/media/thundersley.jfif": "/avery-prototype/static/media/thundersley.e0086551.jfif",
     "static/media/united.jpg": "/avery-prototype/static/media/united.da55ce72.jpg",
     "static/media/valentines.jpg": "/avery-prototype/static/media/valentines.43d3a950.jpg",
     "static/media/woodlands.jpg": "/avery-prototype/static/media/woodlands.e5fef94f.jpg"
@@ -39,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.cf1ffab5.js",
     "static/css/2.7abef457.chunk.css",
-    "static/js/2.e68c420d.chunk.js",
+    "static/js/2.f3e8203e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5cc3d489.chunk.js"
+    "static/js/main.6056cd4e.chunk.js"
   ]
 }

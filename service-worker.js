@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/avery-prototype/precache-manifest.b0d4129804613c2095753c96ee340284.js"
+  "/avery-prototype/precache-manifest.718d421278b023ccbaf98a38b70eb715.js"
 );
 
 self.addEventListener('message', (event) => {
