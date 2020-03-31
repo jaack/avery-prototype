@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/avery-prototype/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/avery-prototype/static/js/main.e2773cc9.chunk.js",
-    "main.js.map": "/avery-prototype/static/js/main.e2773cc9.chunk.js.map",
+    "main.js": "/avery-prototype/static/js/main.7d134d5f.chunk.js",
+    "main.js.map": "/avery-prototype/static/js/main.7d134d5f.chunk.js.map",
     "runtime-main.js": "/avery-prototype/static/js/runtime-main.cf1ffab5.js",
     "runtime-main.js.map": "/avery-prototype/static/js/runtime-main.cf1ffab5.js.map",
     "static/css/2.7abef457.chunk.css": "/avery-prototype/static/css/2.7abef457.chunk.css",
     "static/js/2.557e5c77.chunk.js": "/avery-prototype/static/js/2.557e5c77.chunk.js",
     "static/js/2.557e5c77.chunk.js.map": "/avery-prototype/static/js/2.557e5c77.chunk.js.map",
     "index.html": "/avery-prototype/index.html",
-    "precache-manifest.7bb1e073f5a920336f780e4d15cec6b7.js": "/avery-prototype/precache-manifest.7bb1e073f5a920336f780e4d15cec6b7.js",
+    "precache-manifest.a5ff988efa65d4c8286cc6351a6a7759.js": "/avery-prototype/precache-manifest.a5ff988efa65d4c8286cc6351a6a7759.js",
     "service-worker.js": "/avery-prototype/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/avery-prototype/static/css/2.7abef457.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/avery-prototype/static/css/main.5ecd60fb.chunk.css.map",
@@ -54,6 +54,6 @@
     "static/css/2.7abef457.chunk.css",
     "static/js/2.557e5c77.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e2773cc9.chunk.js"
+    "static/js/main.7d134d5f.chunk.js"
   ]
 }
